@@ -39,7 +39,7 @@ Highlight the savings and convenience of annual memberships compared to pay-per-
 ## Dashboard
 
 Tableau Public Dashboard:
-[Insert Dashboard Link Here]
+[https://public.tableau.com/app/profile/jes.s.osvaldo.manr.quez.gonz.lez/viz/CapstoneAnalisisCyclistic/DashboardPrincipal]
 
 ## Author
 
