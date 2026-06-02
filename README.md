@@ -10,6 +10,19 @@ The objective was to analyze behavioral differences between casual riders and an
 
 Identify how annual members and casual riders use Cyclistic bikes differently and propose strategies to convert casual riders into annual members.
 
+## Dataset
+
+Cyclistic historical trip data provided through the Google Data Analytics Capstone Case Study.
+
+## Project Process
+
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
+
 ## Tools Used
 
 - SQL (BigQuery)
