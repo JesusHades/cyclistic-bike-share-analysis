@@ -59,7 +59,7 @@ Highlight the long-term savings and convenience of annual memberships.
 ## Dashboard
 
 Tableau Public Dashboard:
-[https://public.tableau.com/app/profile/jes.s.osvaldo.manr.quez.gonz.lez/viz/CapstoneAnalisisCyclistic/DashboardPrincipal]
+[Link Tableau Public](https://public.tableau.com/app/profile/jes.s.osvaldo.manr.quez.gonz.lez/viz/CapstoneAnalisisCyclistic/DashboardPrincipal)
 
 ## Author
 
