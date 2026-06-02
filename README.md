@@ -38,16 +38,23 @@ Cyclistic historical trip data provided through the Google Data Analytics Capsto
 - Casual riders show higher activity during weekends and afternoon hours.
 - Both groups strongly prefer electric bikes.
 
+## Key Metrics
+
+- Total rides analyzed: 1,149,837
+- Annual member rides: 73%
+- Casual rider rides: 27%
+- Average ride duration: 14 minutes
+
 ## Recommendations
 
-### 1. Weekend Membership Campaign
-Target casual riders during weekends with membership promotions and discounts.
+### Weekend Membership Campaign
+Target casual riders during weekends through membership promotions and special offers.
 
-### 2. Incentives for Frequent Casual Riders
-Offer membership trials or discounts to casual riders who exceed a ride threshold.
+### Incentives for Frequent Casual Riders
+Provide membership trials and discounts for riders who frequently use the service.
 
-### 3. Communicate Membership Value
-Highlight the savings and convenience of annual memberships compared to pay-per-ride usage.
+### Communicate Membership Value
+Highlight the long-term savings and convenience of annual memberships.
 
 ## Dashboard
 
